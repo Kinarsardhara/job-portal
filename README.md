@@ -22,7 +22,7 @@ This Job Portal is a comprehensive web application that connects students seekin
 
 ## 🌐 Live Demo
 Check out the live application here:  
-[Job Portal](job-pportal.netlify.app)  
+[Job Portal](https://job-pportal.netlify.app)
 
 ## 🖼️ Demo
 
